@@ -8,4 +8,4 @@ Qilin Gu is responsible for coding 2(a), 3(a-c) and 3(f-i).
 
 The code creates an environment class to initialize the setting and function definition.
 
-To get the result for each question, you juest need to run the 209_pset_2.py to see the results.
+To get the result for each question, you juest need to run the pset_2.py to see the results.
