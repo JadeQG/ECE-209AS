@@ -1,11 +1,5 @@
-This code is for UCLA ECE 209AS pset2.
+This code is for UCLA ECE 209AS
 
-Author: Di Jin and Qilin Gu.
+Author: Qilin Gu and Di Jin.
 
-Di Jin is responsible for coding 1(a-d), 3(d-e), 4(a-c) and 5(a-b).
-
-Qilin Gu is responsible for coding 2(a), 3(a-c) and 3(f-i).
-
-The code creates an environment class to initialize the setting and function definition.
-
-To get the result for each question, you juest need to run the PSET2_final.py to see the results.
+Time: Oct - Nov, 2018
